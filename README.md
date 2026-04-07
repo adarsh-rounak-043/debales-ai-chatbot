@@ -171,7 +171,7 @@ streamlit run streamlit_app.py
 
 Deployed using **Streamlit Cloud**:
 
-👉 [https://your-app-url.streamlit.app](https://your-app-url.streamlit.app)
+👉 [https://debales-ai-chatbot.streamlit.app/](https://debales-ai-chatbot.streamlit.app/)
 
 ---
 
